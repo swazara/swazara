@@ -11,14 +11,7 @@
     <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
-    <a href="https://www.r-project.org" target="_blank">
-        <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/>
-    </a>
-    <a href="https://www.tableau.com" target="_blank">
-        <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_logo_2019.png" alt="tableau" width="40" height="40"/>
-    </a>
     <a href="https://www.mysql.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
-    <!-- Añade más herramientas y lenguajes según sea necesario -->
 </p>
