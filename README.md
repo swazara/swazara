@@ -29,14 +29,8 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://cdn.simpleicons.org/python/3776AB" alt="python" width="40" height="40"/>
     </a>
-    <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="mysql" width="40" height="40"/>
-    </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="powerbi" width="40" height="40"/>
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.simpleicons.org/pandas/150458" alt="pandas" width="40" height="40"/>
@@ -45,7 +39,7 @@
         <img src="https://cdn.simpleicons.org/numpy/013243" alt="numpy" width="40" height="40"/>
     </a>
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/matplotlib/11557c" alt="matplotlib" width="40" height="40"/>
+        <img src="<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/matplotlib-plain.svg' />" alt="matplotlib" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.simpleicons.org/git/F05032" alt="git" width="40" height="40"/>
