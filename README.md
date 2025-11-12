@@ -39,7 +39,7 @@
         <img src="https://cdn.simpleicons.org/numpy/013243" alt="numpy" width="40" height="40"/>
     </a>
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/matplotlib-plain.svg' />" alt="matplotlib" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/matplotlib/matplotlib-plain.svg" alt="powerbi" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.simpleicons.org/git/F05032" alt="git" width="40" height="40"/>
