@@ -23,6 +23,9 @@
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
+    <a href="https://linuxmint.com" target="_blank" rel="noreferrer">
+          <img src="https://cdn.simpleicons.org/linuxmint/#86BE43" alt="python" width="40" height="40"/>
+    </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://cdn.simpleicons.org/python/3776AB" alt="python" width="40" height="40"/>
     </a>
