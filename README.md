@@ -24,30 +24,30 @@
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        <img src="https://cdn.simpleicons.org/python/3776AB" alt="python" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+        <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="mysql" width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+        <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="postgresql" width="40" height="40"/>
     </a>
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
+        <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="powerbi" width="40" height="40"/>
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+        <img src="https://cdn.simpleicons.org/pandas/150458" alt="pandas" width="40" height="40"/>
     </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+        <img src="https://cdn.simpleicons.org/numpy/013243" alt="numpy" width="40" height="40"/>
     </a>
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+        <img src="https://cdn.simpleicons.org/matplotlib/11557c" alt="matplotlib" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+        <img src="https://cdn.simpleicons.org/git/F05032" alt="git" width="40" height="40"/>
     </a>
     <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
+        <img src="https://cdn.simpleicons.org/latex/008080" alt="latex" width="40" height="40"/>
     </a>
 </p>
