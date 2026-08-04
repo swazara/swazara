@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Wilders Azara</h1>
-<h3 align="center">Data Science student from Argentina passionate about data analysis and ETL processes.</h3>
+<h3 align="center">Data Science student from Argentina.</h3>
 
 <p align="center">
   <a href="https://github.com/swazara">
