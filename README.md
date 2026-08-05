@@ -15,12 +15,6 @@
   
 <br>
 
-<h3 align="left">📖 About Me</h3>
-<p align="left">
-  - 🔭 I’m currently an advanced Data Science student at Universidad de Buenos Aires (UBA).<br>
-  - 🌱 My main interests are Data Analysis / Visualization, Bioinformatics, and ETL processes.<br>
-</p>
-
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
     <a href="https://linuxmint.com" target="_blank" rel="noreferrer">
